@@ -10,7 +10,7 @@ namespace CurvForm
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new MyForm();
         }
 
         protected override void OnStart()

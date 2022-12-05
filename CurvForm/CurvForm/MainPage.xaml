@@ -44,7 +44,7 @@
             <Label Text="José Martinez" FontSize="Title" Grid.Row="0" Grid.Column="1" TextColor="White" BackgroundColor="Gray" HorizontalTextAlignment="Center"/>
             <Label Text="Puesto Ocupado/ Buscado" FontSize="Body" Grid.Row="1" Grid.Column="1" TextColor="White" BackgroundColor="Gray" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
 
-            <Label Text="- Contato" FontSize="Body" Grid.Row="2" Grid.Column="0" TextColor="Black" BackgroundColor="LightGray" HorizontalTextAlignment="Start"/>
+            <Label Text="- Contacto" FontSize="Body" Grid.Row="2" Grid.Column="0" TextColor="Black" BackgroundColor="LightGray" HorizontalTextAlignment="Start"/>
             <Label Text="- 999 999 999" FontSize="Micro" Grid.Row="3" Grid.Column="0" TextColor="Black" BackgroundColor="LightGray" HorizontalTextAlignment="Start"/>
             <Label Text="- jose.martinez@gmail.com" FontSize="Micro" Grid.Row="4" Grid.Column="0" TextColor="Black" BackgroundColor="LightGray" HorizontalTextAlignment="Start"/>
             <Label Text="- Mexico DF" FontSize="Micro" Grid.Row="5" Grid.Column="0" TextColor="Black" BackgroundColor="LightGray" HorizontalTextAlignment="Start"/>

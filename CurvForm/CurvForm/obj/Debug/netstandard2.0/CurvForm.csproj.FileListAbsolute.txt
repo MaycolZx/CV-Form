@@ -13,3 +13,4 @@ E:\ProjectosVSC22\Nuevo01\CurvForm\CurvForm\obj\Debug\netstandard2.0\CurvForm.dl
 E:\ProjectosVSC22\Nuevo01\CurvForm\CurvForm\obj\Debug\netstandard2.0\refint\CurvForm.dll
 E:\ProjectosVSC22\Nuevo01\CurvForm\CurvForm\obj\Debug\netstandard2.0\CurvForm.pdb
 E:\ProjectosVSC22\Nuevo01\CurvForm\CurvForm\obj\Debug\netstandard2.0\ref\CurvForm.dll
+E:\ProjectosVSC22\Nuevo01\CurvForm\CurvForm\obj\Debug\netstandard2.0\MyForm.xaml.g.cs
